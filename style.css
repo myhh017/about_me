@@ -1,0 +1,29 @@
+/* style.css */
+
+body {
+  background-color: #fef6fb; /* nền pastel hồng nhẹ */
+  font-family: 'Segoe UI', sans-serif;
+  color: #333;
+  text-align: center;
+  padding: 40px;
+}
+
+img {
+  border-radius: 15px;
+  width: 200px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  margin-top: 20px;
+}
+
+h1, h2 {
+  color: #cc3366;
+}
+
+a {
+  color: #6644aa;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
