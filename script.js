@@ -1,7 +1,7 @@
 // script.js
 
 function sayHi() {
-  alert("Hiii bestiee ~ 👋✨ Thanks for visiting my page!");
+  alert("Hello there ~ 👋✨ Thanks for visiting my page!");
 }
 
 document.addEventListener("DOMContentLoaded", function () {
